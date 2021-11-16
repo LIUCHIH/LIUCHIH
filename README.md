@@ -12,7 +12,7 @@ game, or it might contain instructions, help, or details about the patches or up
 <p> STEAM: stands for science, technology, engineering, arts and maths - acknowledging that the arts are a huge part of the scientific industry.</h6>
 
 ## Day 1
-![alt text](file:///Users/helenaliu/Downloads/Day%201_CreativeComputing.png)
+![alt text](/Users/helenaliu/Downloads/Day%201_CreativeComputing.png)
 
 🌱 
 
