@@ -1,6 +1,5 @@
 <h1>Creative Computing</h1>
-👋 Hi, I’m Helena Liu. It is my first time learning about this growing field, and I will use this READ.ME file platform to document my journey. 
-<p> I hope this can also help those who are first-time learners of creative computing, who are also trying to figure out their way around. 
+👋 Hi, I’m Helena Liu. It is my first time learning about this growing field, and I will use this READ.ME file platform to document my journey. I hope this can also help those who are first-time learners of creative computing, who are also trying to figure out their way around. 
 
 
 ## Introduction: Definitions
@@ -13,7 +12,7 @@ game, or it might contain instructions, help, or details about the patches or up
 <p> STEAM: stands for science, technology, engineering, arts and maths - acknowledging that the arts are a huge part of the scientific industry.</h6>
 
 ## Day 1
-
+!Day1_CreativeComputing
 
 🌱 
 
