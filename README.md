@@ -3,18 +3,18 @@
 
 
 ## Introduction: Definitions
-<h6> <p> Creative computing: Creative computing refers to a meta-technology to coalesce knowledge in computing and other disciplines. People use computers as aids to creativity and creative-computing topics may reshape the world as we know it. This involves coding, building apps, craft digital experiences, explore machine intelligence and more which are valued by today's businesses with <strong> higher demand!</strong> <br>
-<p> Physical computing: Physical computing means interacting with real-world objects by programming them from a computer. Examples includes automatic doors and voice recognition. For this project, Arduino is the platform we use which is an open-source electronics platform based on easy-to-use hardware and software. 
-<p> Open source: computer software that is released for use by anyone, for any purpose. 
-<p> ReadME file: The Readme file is often the first file which the users read. It is a text file that contains the information for the user about the software, project, code,
+#### <p> Creative computing: <br> 
+<p> Creative computing refers to a meta-technology to coalesce knowledge in computing and other disciplines. People use computers as aids to creativity and creative-computing topics may reshape the world as we know it. This involves coding, building apps, craft digital experiences, explore machine intelligence and more which are valued by today's businesses with <strong> higher demand!</strong> 
+#### <p> Physical computing:<br> 
+<p> Physical computing means interacting with real-world objects by programming them from a computer. Examples includes automatic doors and voice recognition. For this project, Arduino is the platform we use which is an open-source electronics platform based on easy-to-use hardware and software. 
+#### <p> Open source: <br> computer software that is released for use by anyone, for any purpose. 
+#### <p> ReadME file: <br> The Readme file is often the first file which the users read. It is a text file that contains the information for the user about the software, project, code,
 game, or it might contain instructions, help, or details about the patches or updates. 
-<p> Computer programming: designing and building computer softwares through coding.
-<p> STEAM: stands for science, technology, engineering, arts and maths - acknowledging that the arts are a huge part of the scientific industry.</h6>
+#### <p> STEAM: <br> stands for science, technology, engineering, arts and maths - acknowledging that the arts are a huge part of the scientific industry.<br>
 
-## Day 1
-![alt text](/Users/helenaliu/Downloads/Day%201_CreativeComputing.png)
-
-🌱 
+## 🌱 Day 1
+<img width="400" alt="Screenshot 2021-10-29 at 09 54 16" src="https://user-images.githubusercontent.com/93260038/139406453-c73ee7ce-e7f9-4753-a78a-dc5a1c3ee50a.png">
+#### Description: I learned how to to build a circult by watching the tutorial on moodle padlet > Unit 2 _ Creative Computing _ readings + resources. 
 
 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
