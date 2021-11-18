@@ -10,16 +10,16 @@
 #### <p> ReadME file: <br> The Readme file is often the first file which the users read. It is a text file that contains the information for the user about the software, project, code,
 game, or it might contain instructions, help, or details about the patches or updates. 
 #### <p> STEAM: <br> stands for science, technology, engineering, arts and maths - acknowledging that the arts are a huge part of the scientific industry.<br>
+Platforms:
+#### <p> Tinkercad is a free-of-charge, online 3D modeling program that runs in a web browser. Since it became available in 2011 it has become a popular platform for creating models for 3D printing as well as an entry-level introduction to constructive solid geometry in schools
+##### <p> Arduino is an open-source hardware and software company, project, and user community that designs and manufactures single-board microcontrollers and microcontroller kits for building digital devices.
 
 
 ## 🌱 Day 1
 https://user-images.githubusercontent.com/94369439/142411031-47331159-dead-4c21-af28-fd713796998f.mp4
-
-How to upload Sidenote for first time learners trying to upload video onto Github.
-
-
-
-#### Description: I learned how to to build a circult by watching the tutorial on moodle padlet > Unit 2 _ Creative Computing _ readings + resources. At first it was hard 
+#### Description: In class, I learned how to to build a circult by watching the tutorial link that was on the moodle page. <br>
+https://www.youtube.com/watch?v=r0KErKHxHf0&list=PLT6rF_I5kknMP26rGOy8bDwZs3wbniwU9&index=12on <br>
+It was unsuccessful. Although we followed the step-to-step guide, the light only flikers once connected. We believed it was due to faulty wires/other equipment. So afterclass I decided to use my knowledge of building the circult and applying onto Arduino. 
 
 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
@@ -28,7 +28,19 @@ How to upload Sidenote for first time learners trying to upload video onto Githu
  How to access my work?
  
  
-Side note 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Side note first time learners trying to upload video onto Github.
 How to upload images onto Github?
 Send the image from your phone to your computer.
 Go on the raw file on Github
