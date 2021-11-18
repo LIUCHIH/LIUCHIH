@@ -1,7 +1,6 @@
 <h1>Creative Computing</h1>
 👋 Hi, I’m Helena Liu. It is my first time learning about this growing field, and I will use this READ.ME file platform to document my journey. I hope this can also help those who are first-time learners of creative computing, who are also trying to figure out their way around. 
 
-
 ## Introduction: Definitions
 #### <p> Creative computing: <br> 
 <p> Creative computing refers to a meta-technology to coalesce knowledge in computing and other disciplines. People use computers as aids to creativity and creative-computing topics may reshape the world as we know it. This involves coding, building apps, craft digital experiences, explore machine intelligence and more which are valued by today's businesses with <strong> higher demand!</strong> 
@@ -12,7 +11,13 @@
 game, or it might contain instructions, help, or details about the patches or updates. 
 #### <p> STEAM: <br> stands for science, technology, engineering, arts and maths - acknowledging that the arts are a huge part of the scientific industry.<br>
 
+
 ## 🌱 Day 1
+https://user-images.githubusercontent.com/94369439/142411031-47331159-dead-4c21-af28-fd713796998f.mp4
+
+How to upload Sidenote for first time learners trying to upload video onto Github.
+
+
 
 #### Description: I learned how to to build a circult by watching the tutorial on moodle padlet > Unit 2 _ Creative Computing _ readings + resources. At first it was hard 
 
@@ -21,6 +26,26 @@ game, or it might contain instructions, help, or details about the patches or up
 
  ## Playing with Tinkercad 3d Design
  How to access my work?
+ 
+ 
+Side note 
+How to upload images onto Github?
+Send the image from your phone to your computer.
+Go on the raw file on Github
+Select the file image and drag it directly to the raw file on Github 
+See if it works properly by pressing the preview button (next to the 'edit file' button) 
+SUCCESS! 
+ 
+How to upload videos onto Github?
+For videos you need to make it a mp4 file. 
+My first trial, I draged the mp4 file directly from my mac to this raw space and when I pressed preview it was like this <br>
+
+
+https://user-images.githubusercontent.com/94369439/142411974-ca339fe6-f940-4f1b-82bf-6e1ba600066e.mp4
+
+
+I don't the reason behind this, but I figured it might be something to do with the file size... so, I went online and compressed the file and then dragged it onto this raw space. 
+ It then work! SUCCESS! 
  
  
  
