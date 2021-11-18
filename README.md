@@ -21,13 +21,13 @@ https://www.youtube.com/watch?v=r0KErKHxHf0&list=PLT6rF_I5kknMP26rGOy8bDwZs3wbni
 It was unsuccessful. Although we followed the step-to-step guide, the light only flikers once connected. We believed it was due to faulty wires/other equipment.
  
 
-## 🌱 Physical Computing
+## 🌱 Arduino
 After the unsuccessful trial, I decided to use my knowledge of building the circult and applying onto Arduino. 
 Project 3: Love-o-Meter.
 <img width="454" alt="Screen Shot 2021-11-18 at 5 08 21 PM" src="https://user-images.githubusercontent.com/94369439/142462983-ea592fcd-5415-40de-8d83-0188a5c8df62.png">
 <p> Description: This is the code I made while following the Arduino step-to-step guide on the left hand side.  
 
-
+## 🌱 Arduino
 
 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
