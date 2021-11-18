@@ -2,24 +2,32 @@
 👋 Hi, I’m Helena Liu. It is my first time learning about this growing field, and I will use this READ.ME file platform to document my journey. I hope this can also help those who are first-time learners of creative computing, who are also trying to figure out their way around. 
 
 ## Introduction: Definitions
-#### <p> Creative computing: <br> 
-<p> Creative computing refers to a meta-technology to coalesce knowledge in computing and other disciplines. People use computers as aids to creativity and creative-computing topics may reshape the world as we know it. This involves coding, building apps, craft digital experiences, explore machine intelligence and more which are valued by today's businesses with <strong> higher demand!</strong> 
-#### <p> Physical computing:<br> 
-<p> Physical computing means interacting with real-world objects by programming them from a computer. Examples includes automatic doors and voice recognition. For this project, Arduino is the platform we use which is an open-source electronics platform based on easy-to-use hardware and software. 
-#### <p> Open source: <br> computer software that is released for use by anyone, for any purpose. 
-#### <p> ReadME file: <br> The Readme file is often the first file which the users read. It is a text file that contains the information for the user about the software, project, code,
-game, or it might contain instructions, help, or details about the patches or updates. 
-#### <p> STEAM: <br> stands for science, technology, engineering, arts and maths - acknowledging that the arts are a huge part of the scientific industry.<br>
+<p> Creative computing: <br> 
+<h5><p> Creative computing refers to a meta-technology to coalesce knowledge in computing and other disciplines. People use computers as aids to creativity and creative-computing topics may reshape the world as we know it. This involves coding, building apps, craft digital experiences, explore machine intelligence and more which are valued by today's businesses with <strong> higher demand!</strong> </h5>
+<p> Physical computing:<br> 
+<h5><p> Physical computing means interacting with real-world objects by programming them from a computer. Examples includes automatic doors and voice recognition. For this project, Arduino is the platform we use which is an open-source electronics platform based on easy-to-use hardware and software. </h5>
+<p> Open source: <h5><br> computer software that is released for use by anyone, for any purpose. </h5>
+<p> ReadME file: <h5><br> The Readme file is often the first file which the users read. It is a text file that contains the information for the user about the software, project, code,game, or it might contain instructions, help, or details about the patches or updates. </h5>
+<p> STEAM: <h5><br> stands for science, technology, engineering, arts and maths - acknowledging that the arts are a huge part of the scientific industry.<br></h5>
 Platforms:
-#### <p> Tinkercad is a free-of-charge, online 3D modeling program that runs in a web browser. Since it became available in 2011 it has become a popular platform for creating models for 3D printing as well as an entry-level introduction to constructive solid geometry in schools
-##### <p> Arduino is an open-source hardware and software company, project, and user community that designs and manufactures single-board microcontrollers and microcontroller kits for building digital devices.
+<p> <h5>Tinkercad is a free-of-charge, online 3D modeling program that runs in a web browser. Since it became available in 2011 it has become a popular platform for creating models for 3D printing as well as an entry-level introduction to constructive solid geometry in schools </h5>
+<h5><p> Arduino is an open-source hardware and software company, project, and user community that designs and manufactures single-board microcontrollers and microcontroller kits for building digital devices.</h5>
 
 
-## 🌱 Day 1
+## 🌱 Physical Computing
 https://user-images.githubusercontent.com/94369439/142411031-47331159-dead-4c21-af28-fd713796998f.mp4
 #### Description: In class, I learned how to to build a circult by watching the tutorial link that was on the moodle page. <br>
 https://www.youtube.com/watch?v=r0KErKHxHf0&list=PLT6rF_I5kknMP26rGOy8bDwZs3wbniwU9&index=12on <br>
-It was unsuccessful. Although we followed the step-to-step guide, the light only flikers once connected. We believed it was due to faulty wires/other equipment. So afterclass I decided to use my knowledge of building the circult and applying onto Arduino. 
+It was unsuccessful. Although we followed the step-to-step guide, the light only flikers once connected. We believed it was due to faulty wires/other equipment.
+ 
+
+## 🌱 Physical Computing
+After the unsuccessful trial, I decided to use my knowledge of building the circult and applying onto Arduino. 
+Project 3: Love-o-Meter.
+<img width="454" alt="Screen Shot 2021-11-18 at 5 08 21 PM" src="https://user-images.githubusercontent.com/94369439/142462983-ea592fcd-5415-40de-8d83-0188a5c8df62.png">
+<p> Description: This is the code I made while following the Arduino step-to-step guide on the left hand side.  
+
+
 
 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
