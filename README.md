@@ -13,12 +13,17 @@ game, or it might contain instructions, help, or details about the patches or up
 #### <p> STEAM: <br> stands for science, technology, engineering, arts and maths - acknowledging that the arts are a huge part of the scientific industry.<br>
 
 ## 🌱 Day 1
-<img width="400" alt="Screenshot 2021-10-29 at 09 54 16" src="https://user-images.githubusercontent.com/93260038/139406453-c73ee7ce-e7f9-4753-a78a-dc5a1c3ee50a.png">
-#### Description: I learned how to to build a circult by watching the tutorial on moodle padlet > Unit 2 _ Creative Computing _ readings + resources. 
+
+#### Description: I learned how to to build a circult by watching the tutorial on moodle padlet > Unit 2 _ Creative Computing _ readings + resources. At first it was hard 
 
 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+ ## Playing with Tinkercad 3d Design
+ How to access my work?
+ 
+ 
+ 
 <!---
 LIUCHIH/LIUCHIH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
