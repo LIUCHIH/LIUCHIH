@@ -1,11 +1,10 @@
 <h1>Creative Computing</h1>
-Hello, I’m new to arduino and tinkercad. <strong>Just like you! </strong> <br>
-It is my first time learning about creative computing, and I will use this READ.ME file platform to document my journey. 
-<p>(I hope this can also help/encourage those who are first-time learners of creative computing, who are also trying to figure out their way around.) <br>
+Hello, I’m new to arduino and tinkercad. <strong> Perhaps you are just the same as ME! </strong> <br>
+It is my first time learning about creative computing, and I will use this READ.ME file platform to document my journey. (I hope this can also help/encourage those who are first-time learners of creative computing, who are also trying to figure out their way around.) <br>
 > I have a mini-guide to help first time users at the end of this presentation! :) 
+<br>
 
- ![cuteface](https://user-images.githubusercontent.com/94369439/142495932-0c6bbea8-42cb-4f37-a1a9-2d5a86a02ea7.jpeg)
-
+![cute-adorable](https://user-images.githubusercontent.com/94369439/142632896-8dd14d83-854a-498f-b3f3-5021d7867270.gif)
 
 ## Introduction: Definitions
 <h5> Here are some of the definitions that are useful in starting off this project. </h5>
@@ -55,6 +54,10 @@ This is the code I made while following the Arduino step-to-step guide on the le
  The reason why I did this was because I was unfamiliar with the website but I saw there was a map function in one of the objects which I was curious to play around with. 
 
 <h4> How to access my 3D platform on Tinkercad? </h4>
+
+![2fbf66802f50c0da6d59732878686c4a_w200](https://user-images.githubusercontent.com/94369439/142633111-b6bdef8b-1895-4fd4-9b9b-c1ef934a9a2b.gif)
+
+
 1. Create an account (if you haven't done so)<br>
 2. It should bring you to a page like this. Press the search icon. <br>
 <img width="1430" alt="Screen Shot 2021-11-18 at 9 32 21 PM" src="https://user-images.githubusercontent.com/94369439/142500091-51fae337-a3f8-4f9a-8ce6-b577956c4386.png">
@@ -63,14 +66,25 @@ Type in to the search engine ' Helena Liu Introducing me' <br>
  <img width="604" alt="Screen Shot 2021-11-18 at 9 33 32 PM" src="https://user-images.githubusercontent.com/94369439/142500259-6adc30dd-bcdb-43cb-8e58-37cec0f4e4be.png">
  4. The first one is my work! Click on it and press 'Tinkerthis' 
 
- <br> <br> <br>
+## 🌱 Reflection
+I initially thought this week we would be learning about coding, and was overwhelmed just by the term 'creative computing.' I didn't know exactly what we were going to do which made me anxious and excited at the same time. Anxious, because I have yet learned anything about it so it is out of my confort zone to touch this field, yet....excited, because I know it is a growing industry that continues to develop so I have always wanted to try it and learn more about it. I approached the brief with an open mind, I started by experimenting with Arduino by doing some of the task, and later on with Tinkercad. I didn't have a set objective at the start of the week, and was not too stressed to create a set outcome which made the week enjoyable while discovering more creative computing while learning and doing. It has shown me a new pathway of creating which could be used in future projects, and I would like to continue to discover and play.
+
+![hang in there](https://user-images.githubusercontent.com/94369439/142633077-7178f0e6-1533-444c-9278-45e2c71b7fd3.gif)
+
+
+## 🌱 Readings 
+<p> https://www.theguardian.com/lifeandstyle/2013/oct/13/internet-computers-technology-life-online
+<p> https://www.mckinsey.com/featured-insights/future-of-work/tech-for-good-using-technology-to-smooth-disruption-and-improve-well-being
+<br> <br>
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 > Guide for first time learners trying to upload video onto Github.
+
 ###### How to upload images onto Github?
 1. Send the image from your phone to your computer.<br>
 2. Go on the raw file on Github <br>
 3. Select the file image and drag it directly to the raw file on Github <br>
 4. See if it works properly by pressing the preview button (next to the 'edit file' button) <br>
-<br>
 <strong> SUCCESS! </strong>
  
 ###### How to upload videos onto Github?
@@ -79,11 +93,8 @@ Type in to the search engine ' Helena Liu Introducing me' <br>
 3. For me, when I dragged the mp4 file directly from my mac to this raw space and when I pressed preview the video was very <strong> brIGHT </strong> <br>
 4. If this is the case for you2, then compress the file and then drag onto the raw space. 
 5. See if it works properly by pressing the preview button (next to the 'edit file' button) <br>
-<br>
 <strong> SUCCESS! </strong>
-
-## 🌱 Reflection
-I initially thought this week we would be learning about coding, and was overwhelmed just by the term 'creative computing.' I didn't know exactly what we were going to do which made me anxious and excited at the same time. Anxious, because I have yet learned anything about it so it is out of my confort zone to touch this field, yet....excited, because I know it is a growing industry that continues to develop so I have always wanted to try it and learn more about it. <br>
-I approached the brief with an open mind, I experimented with Arduino by doing some of the task, and later on with Tinkercad. Although I didn't have a set objective at the start of the week, I enjoyed myself while discovering more while learning/doing. 
-
+<br>
+ 
+Thank you! 
 
